@@ -1,0 +1,13 @@
+C:\Users\colin\source\repos\31621KataFizzBuzz\31621KataFizzBuzz\bin\Debug\netcoreapp3.1\31621KataFizzBuzz.exe
+C:\Users\colin\source\repos\31621KataFizzBuzz\31621KataFizzBuzz\bin\Debug\netcoreapp3.1\31621KataFizzBuzz.deps.json
+C:\Users\colin\source\repos\31621KataFizzBuzz\31621KataFizzBuzz\bin\Debug\netcoreapp3.1\31621KataFizzBuzz.runtimeconfig.json
+C:\Users\colin\source\repos\31621KataFizzBuzz\31621KataFizzBuzz\bin\Debug\netcoreapp3.1\31621KataFizzBuzz.runtimeconfig.dev.json
+C:\Users\colin\source\repos\31621KataFizzBuzz\31621KataFizzBuzz\bin\Debug\netcoreapp3.1\31621KataFizzBuzz.dll
+C:\Users\colin\source\repos\31621KataFizzBuzz\31621KataFizzBuzz\bin\Debug\netcoreapp3.1\31621KataFizzBuzz.pdb
+C:\Users\colin\source\repos\31621KataFizzBuzz\31621KataFizzBuzz\obj\Debug\netcoreapp3.1\31621KataFizzBuzz.csprojAssemblyReference.cache
+C:\Users\colin\source\repos\31621KataFizzBuzz\31621KataFizzBuzz\obj\Debug\netcoreapp3.1\31621KataFizzBuzz.AssemblyInfoInputs.cache
+C:\Users\colin\source\repos\31621KataFizzBuzz\31621KataFizzBuzz\obj\Debug\netcoreapp3.1\31621KataFizzBuzz.AssemblyInfo.cs
+C:\Users\colin\source\repos\31621KataFizzBuzz\31621KataFizzBuzz\obj\Debug\netcoreapp3.1\31621KataFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\31621KataFizzBuzz\31621KataFizzBuzz\obj\Debug\netcoreapp3.1\31621KataFizzBuzz.dll
+C:\Users\colin\source\repos\31621KataFizzBuzz\31621KataFizzBuzz\obj\Debug\netcoreapp3.1\31621KataFizzBuzz.pdb
+C:\Users\colin\source\repos\31621KataFizzBuzz\31621KataFizzBuzz\obj\Debug\netcoreapp3.1\31621KataFizzBuzz.genruntimeconfig.cache
