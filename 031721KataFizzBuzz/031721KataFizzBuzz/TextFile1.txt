@@ -1,0 +1,3 @@
+﻿Was harder than last time.I struggled with exactly how to format 
+each if statement . I think it would be better to try some 
+Tomorrow I will attempt FizzBuzz with test driven development, or a pascals triangle katta since that seems hard but doable.
