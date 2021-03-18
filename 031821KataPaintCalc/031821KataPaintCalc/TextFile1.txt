@@ -3,8 +3,8 @@ given input of the rooms length and width. Round up, as you would need a whole
 new bucket to cover even a partial bucket of paint. Each paint can covers 400 ft.
 
 
-	1 Define length and width variables as empty ints, bucketArea = 400
-	2 Prompt user input on command line, map input to variables
+	1# Define length and width variables as empty ints, bucketArea = 400
+	2 #Prompt user input on command line, map input to variables
 	3 ceilingLength * ceilingWidth = CeilingArea
 	4 ceilingArea/bucketArea rounded up = paint cans needed
 	5 Print result
@@ -19,4 +19,6 @@ new bucket to cover even a partial bucket of paint. Each paint can covers 400 ft
 
 Ultra extreme Bonus: Make it calculate the amount needed for walls, and ceiling given the 
 whole room's measurements, and the measurements of any doors and windows in 
-the room. remove area of doors and windows to find paint needed for whole room
+the room. remove area of doors and windows to find paint needed for whole room.
+
+Check input is correct measurements?

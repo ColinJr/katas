@@ -1,0 +1,13 @@
+C:\Users\colin\source\repos\Katas\031821KataPaintCalc\031821KataPaintCalc\bin\Debug\netcoreapp3.1\031821KataPaintCalc.exe
+C:\Users\colin\source\repos\Katas\031821KataPaintCalc\031821KataPaintCalc\bin\Debug\netcoreapp3.1\031821KataPaintCalc.deps.json
+C:\Users\colin\source\repos\Katas\031821KataPaintCalc\031821KataPaintCalc\bin\Debug\netcoreapp3.1\031821KataPaintCalc.runtimeconfig.json
+C:\Users\colin\source\repos\Katas\031821KataPaintCalc\031821KataPaintCalc\bin\Debug\netcoreapp3.1\031821KataPaintCalc.runtimeconfig.dev.json
+C:\Users\colin\source\repos\Katas\031821KataPaintCalc\031821KataPaintCalc\bin\Debug\netcoreapp3.1\031821KataPaintCalc.dll
+C:\Users\colin\source\repos\Katas\031821KataPaintCalc\031821KataPaintCalc\bin\Debug\netcoreapp3.1\031821KataPaintCalc.pdb
+C:\Users\colin\source\repos\Katas\031821KataPaintCalc\031821KataPaintCalc\obj\Debug\netcoreapp3.1\031821KataPaintCalc.csprojAssemblyReference.cache
+C:\Users\colin\source\repos\Katas\031821KataPaintCalc\031821KataPaintCalc\obj\Debug\netcoreapp3.1\031821KataPaintCalc.AssemblyInfoInputs.cache
+C:\Users\colin\source\repos\Katas\031821KataPaintCalc\031821KataPaintCalc\obj\Debug\netcoreapp3.1\031821KataPaintCalc.AssemblyInfo.cs
+C:\Users\colin\source\repos\Katas\031821KataPaintCalc\031821KataPaintCalc\obj\Debug\netcoreapp3.1\031821KataPaintCalc.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\Katas\031821KataPaintCalc\031821KataPaintCalc\obj\Debug\netcoreapp3.1\031821KataPaintCalc.dll
+C:\Users\colin\source\repos\Katas\031821KataPaintCalc\031821KataPaintCalc\obj\Debug\netcoreapp3.1\031821KataPaintCalc.pdb
+C:\Users\colin\source\repos\Katas\031821KataPaintCalc\031821KataPaintCalc\obj\Debug\netcoreapp3.1\031821KataPaintCalc.genruntimeconfig.cache
