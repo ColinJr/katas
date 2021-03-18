@@ -26,7 +26,7 @@ namespace _31621KataFizzBuzz
                 {
                 Console.WriteLine(num);
 
-                }
+                };
             };
         }
     }

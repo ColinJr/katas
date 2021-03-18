@@ -1,0 +1,22 @@
+﻿Write a program that calculates the amount of paint needed to paint a ceiling 
+given input of the rooms length and width. Round up, as you would need a whole 
+new bucket to cover even a partial bucket of paint. Each paint can covers 400 ft.
+
+
+	1 Define length and width variables as empty ints, bucketArea = 400
+	2 Prompt user input on command line, map input to variables
+	3 ceilingLength * ceilingWidth = CeilingArea
+	4 ceilingArea/bucketArea rounded up = paint cans needed
+	5 Print result
+	1.5? Define room length, width, and height, numOfObstructions and obstructionArea
+	2.5? ask room length, width, height, and how many obstructions
+	2.6? make an array based on how many obstructions there are
+	2.7? ask for each obstruction's length and height
+	2.8? for each obstruction, calculate obstruction length * height, add that to obstruction area
+
+
+
+
+Ultra extreme Bonus: Make it calculate the amount needed for walls, and ceiling given the 
+whole room's measurements, and the measurements of any doors and windows in 
+the room. remove area of doors and windows to find paint needed for whole room
