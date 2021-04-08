@@ -1,0 +1,16 @@
+C:\Users\colin\source\repos\Katas\040821KataStringCalc\StringCalculator\obj\Debug\net5.0\StringCalculator.csprojAssemblyReference.cache
+C:\Users\colin\source\repos\Katas\040821KataStringCalc\StringCalculator\obj\Debug\net5.0\StringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colin\source\repos\Katas\040821KataStringCalc\StringCalculator\obj\Debug\net5.0\StringCalculator.AssemblyInfoInputs.cache
+C:\Users\colin\source\repos\Katas\040821KataStringCalc\StringCalculator\obj\Debug\net5.0\StringCalculator.AssemblyInfo.cs
+C:\Users\colin\source\repos\Katas\040821KataStringCalc\StringCalculator\obj\Debug\net5.0\StringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\Katas\040821KataStringCalc\StringCalculator\bin\Debug\net5.0\StringCalculator.exe
+C:\Users\colin\source\repos\Katas\040821KataStringCalc\StringCalculator\bin\Debug\net5.0\StringCalculator.deps.json
+C:\Users\colin\source\repos\Katas\040821KataStringCalc\StringCalculator\bin\Debug\net5.0\StringCalculator.runtimeconfig.json
+C:\Users\colin\source\repos\Katas\040821KataStringCalc\StringCalculator\bin\Debug\net5.0\StringCalculator.runtimeconfig.dev.json
+C:\Users\colin\source\repos\Katas\040821KataStringCalc\StringCalculator\bin\Debug\net5.0\StringCalculator.dll
+C:\Users\colin\source\repos\Katas\040821KataStringCalc\StringCalculator\bin\Debug\net5.0\ref\StringCalculator.dll
+C:\Users\colin\source\repos\Katas\040821KataStringCalc\StringCalculator\bin\Debug\net5.0\StringCalculator.pdb
+C:\Users\colin\source\repos\Katas\040821KataStringCalc\StringCalculator\obj\Debug\net5.0\StringCalculator.dll
+C:\Users\colin\source\repos\Katas\040821KataStringCalc\StringCalculator\obj\Debug\net5.0\ref\StringCalculator.dll
+C:\Users\colin\source\repos\Katas\040821KataStringCalc\StringCalculator\obj\Debug\net5.0\StringCalculator.pdb
+C:\Users\colin\source\repos\Katas\040821KataStringCalc\StringCalculator\obj\Debug\net5.0\StringCalculator.genruntimeconfig.cache
