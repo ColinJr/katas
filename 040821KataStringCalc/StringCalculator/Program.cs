@@ -35,14 +35,13 @@ namespace StringCalculator
 
             
             Console.WriteLine("You input the numbers");
-            numbers.ToList().ForEach(i => Console.WriteLine(i.ToString()));
+            //numbers.ToList().ForEach(i => Console.WriteLine(i.ToString()));
             Console.WriteLine(String.Join(",", rawNumbers));
-
             Console.WriteLine("_______________________________________________");
-
             Console.WriteLine("Added together those numbers equal");
             Console.WriteLine(addedNumbers);
         }
+
     }
 
 }
